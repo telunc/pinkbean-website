@@ -102,40 +102,45 @@ class App extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col-md-4">
-                                <h4>Pink Bean</h4>
-                                <p className="footer-detail">
-                                    Pink Bean is written in{" "}
-                                    <a href="https://nodejs.org/">Node.js</a>.
-                                    <br />
-                                    <a href="https://discord.js.org/">
-                                        Discord.js
-                                    </a>{" "}
-                                    is the main library.
-                                    <br />
-                                    Built and maintained by{" "}
-                                    <a href="http://telunchen.com/">Andy</a> and
-                                    Colin.
-                                </p>
+                                <div className="footer-block">
+                                    <h4>Pink Bean</h4>
+                                    <p className="footer-detail">
+                                        Pink Bean is written in{" "}
+                                        <a href="https://nodejs.org/">Node.js</a>.
+                                        <br />
+                                        <a href="https://discord.js.org/">
+                                            Discord.js
+                                        </a>{" "}
+                                        is the main library.
+                                        <br />
+                                        Built and maintained by{" "}
+                                        <a href="http://telunchen.com/">Andy</a> and
+                                        Colin.
+                                    </p>
+                                </div>
                             </div>
                             <div className="col-md-4">
-                                <h4>Contact</h4>
-                                <p className="footer-detail">
-                                    For any comments, concerns, or suggestions,
-                                    please join our{" "}
-                                    <a href="https://discord.gg/wBUKQhN">
-                                        support server
-                                    </a>
-                                    . Our staff will try our best to help you.
-                                </p>
+                                <div className="footer-block">
+                                    <h4>Contact</h4>
+                                    <p className="footer-detail">
+                                        For any comments, concerns, or suggestions,
+                                        please join our{" "}
+                                        <a href="https://discord.gg/wBUKQhN">
+                                            support server
+                                        </a>
+                                        . Our staff will try our best to help you.
+                                    </p>
+                                </div>
                             </div>
                             <div className="col-md-4">
-                                <h4>About</h4>
-                                <p className="footer-detail">
-                                    Pink Bean is a project I made for fun and
-                                    put my free time into making it better.
-                                    Please feel free to try it out and give me
-                                    your feedback.
-                                </p>
+                                <div className="footer-block">
+                                    <h4>About</h4>
+                                    <p className="footer-detail">
+                                        Pink Bean is a project I made for fun and
+                                        put my free time into making it better.
+                                        Please feel free to give me your feedback.
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>

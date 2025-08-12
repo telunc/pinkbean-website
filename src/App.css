@@ -71,20 +71,28 @@ p {
     background: #f79a9a;
 }
 
+.footer-block {
+    background: #fff;
+    margin: 4px -8px 16px -8px;
+    padding: 4px 18px 4px 18px;
+    border-radius: 8px;
+    border: 1px solid #ff3375;
+}
+
 .footer>div {
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 14px;
 }
 
 h4 {
-    color: #000;
+    color: #ff3375;
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
 
 .footer-detail {
-    color: #000;
+    color: #ff3375;
 }
 
 .footer-detail>a,
