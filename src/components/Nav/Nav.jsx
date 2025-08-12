@@ -12,7 +12,7 @@ export default class Nav extends React.Component {
                 id="nav"
                 role="navigation"
             >
-                <div className="container nav-container">
+                <div className="container nav-container relative">
                     <div className="navbar-header">
                         <a
                             className="navbar-brand"

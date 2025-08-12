@@ -12,3 +12,7 @@
     right: 12px;
     top: 8px;
 }
+
+.relative {
+    position: relative;
+}
