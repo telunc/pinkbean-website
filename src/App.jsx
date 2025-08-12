@@ -18,7 +18,7 @@ class App extends Component {
                             <div className="col-sm-12 text-center profile">
                                 <div className="row">
                                     <img
-                                        src="/image/pinkbean.gif"
+                                        src="image/pinkbean.gif"
                                         alt="profile"
                                         className="profile-image"
                                     />
